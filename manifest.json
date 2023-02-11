@@ -1,0 +1,50 @@
+{
+  "short_name": "E3 2019",
+  "name": "Расписание E3 2019",
+  "display": "standalone",
+  "theme_color": "#d60034",
+  "background_color": "#ffffff",
+  "icons": [
+    {
+      "src": "/favicon/android-48px.png",
+      "type": "image/png",
+      "sizes": "48x48"
+    },
+    {
+      "src": "/favicon/favicon-64px.png",
+      "type": "image/png",
+      "sizes": "64x64"
+    },
+    {
+      "src": "/favicon/android-96px.png",
+      "type": "image/png",
+      "sizes": "96x96"
+    },
+    {
+      "src": "/favicon/android-128px.png",
+      "type": "image/png",
+      "sizes": "128x128"
+    },
+    {
+      "src": "/favicon/android-144px.png",
+      "type": "image/png",
+      "sizes": "144x144"
+    },
+    {
+      "src": "/favicon/android-192px.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "/favicon/android-256px.png",
+      "type": "image/png",
+      "sizes": "256x256"
+    },
+    {
+      "src": "/favicon/android-512px.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": "index.html"
+}
